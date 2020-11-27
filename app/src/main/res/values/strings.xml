@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BuatNavigation</string>
+    <string name="hello_home_fragment">Ini Home Fragment</string>
+    <string name="ke_profil">Ke Activity Profil</string>
+    <string name="ke_kategori">Ke Fragment Kategori</string>
+    <string name="ini_profil">Ini Activity Profil</string>
+    <string name="ini_kategori">Ini Fragment Kategori</string>
+    <string name="kategori_gayahidup">Ke Fragment Gaya Hidup</string>
+    <string name="kategori_game">Ke Fragment Game</string>
+    <string name="kategori_name">Kategori Nama</string>
+    <string name="kategori_description">Kategori Deskripsi</string>
+    <string name="ke_home">Ke Fragment Home</string>
+</resources>
